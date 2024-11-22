@@ -36,7 +36,7 @@ You can also run Echo with GitHub actions. [See Lewis' blog post for more info](
 
 There are two parts to configure: `sites` and `services`. `sites` is the RSS feeds you want to cross-post and `services` is the services you want to cross-post to.
 
-Go to [the Echo website](https://echo.rknight.me) to use the config generator and paste the generated config into `config.js` or see below for setting it up manually.
+Go to [the Echo website](https://echo.sitedata.org) to use the config generator and paste the generated config into `config.js` or see below for setting it up manually.
 
 ### Sites
 
